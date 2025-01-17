@@ -2,6 +2,9 @@
 
 This repository contains a project focused on the segmentation of brain tumors from MRI images using a U-Net deep learning architecture. The U-Net model is specifically designed for biomedical image segmentation tasks and has been fine-tuned to accurately detect and segment tumors in brain scans.
 
+![image](https://github.com/user-attachments/assets/899433fb-7e62-428b-8938-bdf5c47fcdac)
+
+
 ## Overview
 
 Brain tumor segmentation is a critical task in medical image analysis, aiming to distinguish tumor tissue from normal brain structures in MRI scans. Accurate segmentation assists in diagnosis, treatment planning, and monitoring disease progression.
